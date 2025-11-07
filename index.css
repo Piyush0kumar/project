@@ -1,0 +1,36 @@
+.F{
+            margin: 10px;
+            font-style:oblique;
+        }
+        #A{
+            text-align: center;
+            background-color:#4B2E83 ;
+            border-radius: 10px;
+            padding: 10px;
+        }
+        #B{
+            text-align: center;
+            background-color: rgb(180, 246, 238);
+            border-radius: 10px;
+            padding: 10px;
+            display: flex;
+            justify-content: center;
+            gap: 10px;
+            
+        }
+        #C{
+            margin-top: 50px;
+            background-image: linear-gradient(to left,rgb(68, 68, 238), skyblue);
+        }
+        #D{
+            background-color: black;
+            color: antiquewhite;
+            text-align: center;
+            display: flex;
+            justify-content: center;
+            padding:30px;
+            border-radius: 5px;
+           
+        }
+        
+

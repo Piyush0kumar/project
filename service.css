@@ -1,0 +1,90 @@
+.F{
+            margin: 3px;
+            
+        }
+        #A{
+            text-align: center;
+            background-color: blueviolet;
+            border-radius: 10px;
+            padding: 10px;
+        }
+        #B{
+            text-align: center;
+            background-color: rgb(180, 246, 238);
+            border-radius: 10px;
+            padding: 10px;
+            display: flex;
+            justify-content: center;
+            gap: 10px;
+        }
+        #C{
+             display: flex;
+            
+            align-items: center;
+            justify-content: center;
+            text-align: center;
+            border-radius: 5px;
+        
+            border-radius: 30px;
+            gap: 20px;
+
+        }
+        
+        #D{
+            background-color: black;
+            color: antiquewhite;
+            text-align: center;
+            display: flex;
+            justify-content: center;
+            padding:30px;
+            border-radius: 5px;
+           
+        }
+        .Z{
+            display: flex;
+            justify-content: center;
+            text-align: center;
+        }
+        img{
+            border-radius: 10px;
+            margin: 10px;
+            width: 260px;
+            height: 150px;
+        }
+        #E{
+             display: flex;
+            
+            align-items: center;
+            justify-content: center;
+            text-align: center;
+            border-radius: 5px;
+        
+            border-radius: 30px;
+            gap: 20px;
+
+        }
+        #F{
+             display: flex;
+            
+            align-items: center;
+            justify-content: center;
+            text-align: center;
+            border-radius: 5px;
+        
+            border-radius: 30px;
+            gap: 20px;
+
+        }
+        p{
+            font-style: oblique;
+            font-weight: 500;
+            text-decoration: solid;
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            
+        }
+        h2{
+            background-image: linear-gradient(to bottom ,rgb(10, 114, 241),rgb(81, 209, 139));
+        }
+        
+
+        
